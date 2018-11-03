@@ -17,24 +17,28 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "University of Hannover"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "M.Sc. in Engineering Mathematics"
+  institution = "Chalmers University of Technology"
   year = 2008
+
+[[education.courses]]
+  course = "B.Sc. in Mathematics"
+  institution = "University of Gothenburg"
+  year = 2007
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Researcher at the University of Gothenburg. I work at a Language Technology Research Lab, Språkbanken, 
+and for the Centre for Digital Humanities. My research focuses on computational methods for detecting changes in 
+natural language, in particular semantic changes and lexical replacements. 
+I also work in sentiment mining for Swedish, and text mining for the digital humanities. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Recently, I have started to think about how we can apply data science methods to the humanities to 
+generate sustainable and representative knowledge. 
